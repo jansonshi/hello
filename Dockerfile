@@ -5,4 +5,4 @@ FROM index.alauda.cn/alauda/hello-world
 MAINTAINER jansonshi "jansonshi@aliyun.com"
 
 # ENV
-ENV __CUSTOM_DOMAIN_NAME__  hellonew
+ENV shell /usr/bin
